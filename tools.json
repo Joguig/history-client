@@ -1,0 +1,29 @@
+{
+  "Tools": [
+    {
+      "Repository": "github.com/kisielk/errcheck",
+      "Commit": "1787c4bee836470bf45018cfbc783650db3c6501"
+    },
+    {
+      "Repository": "github.com/alecthomas/gometalinter",
+      "Commit": "6fe6b56ff3e7bdbc4fc617c36329efd224f28d92"
+    },
+    {
+      "Repository": "github.com/gordonklaus/ineffassign",
+      "Commit": "3fd9b69f2fb179405773f03d33c68a00f3a1ca4a"
+    },
+    {
+      "Repository": "honnef.co/go/tools/cmd/megacheck",
+      "Commit": "88497007e8588ea5b6baee991f74a1607e809487"
+    },
+    {
+      "Repository": "golang.org/x/tools/cmd/goimports",
+      "Commit": "7d1dc997617fb662918b6ea95efc19faa87e1cf8"
+    },
+    {
+      "Repository": "github.com/remyoudompheng/go-misc/deadcode",
+      "Commit": "dfc465eaf84f1a48122fb39b93c8f3d3130ab87f"
+    }
+  ],
+  "RetoolVersion": "1.3.7"
+}

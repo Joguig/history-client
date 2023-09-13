@@ -1,0 +1,15 @@
+{
+  "Deadline": "6m",
+  "Enable": [
+    "deadcode",
+    "errcheck",
+    "gofmt",
+    "goimports",
+    "golint",
+    "ineffassign",
+    "megacheck",
+    "misspell",
+    "vet"
+  ],
+  "Vendor": true
+}
